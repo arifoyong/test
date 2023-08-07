@@ -3,4 +3,4 @@ addon
 add by local
 modify by origin
 
-another modification by local
+another modification by remote
